@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Russia",
+    "places": 10,
+    "departureTime": "2022-01-10",
+    "duration": "PT3H50M",
+    "departurePlace": "Moscow",
+    "destination": "Sochi",
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "USA",
+    "places":5,
+    "departureTime": "2021-09-30",
+    "duration": "PT12H00M",
+    "departurePlace": "Moscow",
+    "destination": "Los Angeles",
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "name": "Kazakhstan",
+    "places":6,
+    "departureTime": "2022-12-31",
+    "duration": "PT5H30M",
+    "departurePlace": "Moscow",
+    "destination": "Nursultan",
+    "deleted": false
+  }
+]

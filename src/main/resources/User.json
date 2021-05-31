@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "passport": "1234567",
+    "deleted": "false"
+  },
+  {
+    "id": 2,
+    "firstName": "Petr",
+    "lastName": "Petrov",
+    "passport": "1234568",
+    "deleted": "false"
+  },
+  {
+    "id": 3,
+    "firstName": "Sidor",
+    "lastName": "Sidorov",
+    "passport": "1234569",
+    "deleted": "false"
+  },
+  {
+    "id": 4,
+    "firstName": "Andrei",
+    "lastName": "Andreev",
+    "passport": "1234561",
+    "deleted": "false"
+  },
+  {
+    "id": 5,
+    "firstName": "James",
+    "lastName": "Bond",
+    "passport": "1234562",
+    "deleted": "false"
+  }
+]
